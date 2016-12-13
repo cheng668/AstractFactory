@@ -27,6 +27,7 @@
 * 仅使用由AbstractFactory和AbstractProduct类声明的接口
 
 ##四.协作：
+
 * 运行时创建一个ConcreteFactory类的实例，具体工厂对应不同产品对象。
 * AbstractFactory将产品对象的创建延迟到ConcreteFactory子类。
 
