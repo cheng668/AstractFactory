@@ -154,3 +154,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+.sln
+.v12.suo
+.sdf
+Debug/
